@@ -10,28 +10,31 @@
             "picture": "https://scontent-atl3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1374252_333997053412719_128508564_n.jpg?oh=9b9f8a59b0e85c5e60c69592e24d3c67&oe=56B1C341"
         },
         {
-            "fname": "Lucas",
-            "lname": "Derraugh",
-            "email": "lucas@cuappdev.org",
-            "phone": "(134) 555-1134",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/11312992_10203970601057656_29618109749126017_o.jpg"
+            "fname": "Grace",
+            "lname": "Ye",
+            "email": "gy@125.com",
+            "phone": "(234) 775-1143",
+            "picture": "https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12189151_546257758857785_62556574007123472_n.jpg?oh=83ff8ce9d5192a431f484c6ef7b9ce1c&oe=56B47269"
         },
         {
-            "fname": "Feifan",
-            "lname": "Zhou",
-            "email": "feifan@tunetap.com",
-            "phone": "(123) 456-5432",
-            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/10387050_665555910165227_2032361056304072307_o.jpg"
-        },
-        {
-            "fname": "Steven",
-            "lname": "Yeh",
+            "fname": "Jennifer",
+            "lname": "Wang",
             "email": [
-                "steven@yeh.com",
-                "vp@ops.com",
+                "jw@cornell.edu",
+                "jennifer@gmail.com",
             ],
-            "phone": "(152) 555-5321",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12144871_10206841309864569_3324705432898427151_n.jpg?oh=3e85db19e29c77041d6312466a8d9aeb&oe=56C00AFC"
+            "phone": "(608) 456-5432",
+            "picture": "http://a.hiphotos.baidu.com/image/pic/item/7c1ed21b0ef41bd55500064c53da81cb39db3d33.jpg"
+        },
+        {
+            "fname": "Sally",
+            "lname": "Gui",
+            "email": [
+                "sg@cornell.com",
+                "ssd@cornell.org",
+            ],
+            "phone": "(132) 789-5331",
+            "picture": "http://img1.imgtn.bdimg.com/it/u=578370319,31428354&fm=11&gp=0.jpg"
         },
         {
             "fname": "Walker",
